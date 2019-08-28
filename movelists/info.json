@@ -1,0 +1,30 @@
+{
+    "buttons": {
+        "Arcade": [
+            { "image": "layout.webp" },
+            { "LP": "LP" },
+            { "MP": "MP" },
+            { "HP": "HP" },
+            { "LK": "LK" },
+            { "MK": "MK" },
+            { "HK": "HK" }
+        ],
+        "Saturn": [
+            { "LP": "X" },
+            { "MP": "Y" },
+            { "HP": "Z" },
+            { "LK": "A" },
+            { "MK": "B" },
+            { "HK": "C" }
+        ],
+        "PlayStation": [
+            { "LP": "Square" },
+            { "MP": "Triangle" },
+            { "HP": "L1" },
+            { "LK": "X" },
+            { "MK": "Circle" },
+            { "HK": "R1" }
+        ]
+    },
+    "hasUpgrades": false
+}

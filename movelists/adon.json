@@ -1,0 +1,58 @@
+{
+	"names": [
+		{
+			"region": "default",
+			"roman": "Adon"
+		},
+		{
+			"region": "japan",
+			"roman": "Adon",
+			"original": "アドン"
+		}
+	],
+	"images": {
+		"face": "adon.webp"
+	},
+	"moves": {
+		"{normal-throws}": [
+			{
+				"name": "Jaguar Carry",
+				"input": "{close}, :b: {or} :f:+[MP] {or} [HP]"
+			},
+			{
+				"name": "Jaguar Slam",
+				"input": "{close}, :b: {or} :f:+[MK] {or} [HK]"
+			}
+		],	
+		"{unique-attacks}": [
+			{
+				"name": "Jutting Kick",
+				"input": ":df:+[MK]"
+			}
+		],
+		"{special-moves}": [
+			{
+				"name": "Jaguar Kick",
+				"input": ":rdp:+[K]"
+			},
+			{
+				"name": "Rising Jaguar",
+				"input": ":qcf::uf:+[K]"
+			},
+			{
+				"name": "Jaguar Tooth",
+				"input": ":hcb:+[K]"
+			}
+		],
+		"{super-combo}": [
+			{
+				"name": "Jaguar Varied Assault",
+				"input": ":qcf::d::df:+[P]"
+			},
+			{
+				"name": "Jaguar Revolver",
+				"input": ":qcb::qcb:+[K]"
+			}
+		]
+	}
+}

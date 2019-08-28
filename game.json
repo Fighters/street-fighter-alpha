@@ -1,0 +1,344 @@
+{
+	"romans": {
+		"regions": [
+			{ 
+				"region": "default",
+				"roman": "Street Fighter Alpha: Warriors' Dreams"
+			},
+			{
+				"region": "japan",
+				"roman": "Street Fighter Zero",
+				"original": "ストリートファイター ZERO"
+			}
+		],
+		"also-known-as": [
+			"sfa", "sfz", "street alpha", "street zero", "alpha 1", "zero 1"
+		]
+	},
+	"platforms": [
+		{
+			"platform": "Arcade",
+			"regions": [
+				{
+					"region": "Japan",
+					"roman": "Street Fighter Zero",
+					"original": "ストリートファイター ZERO",
+					"releaseDate": "06-05-1995",
+					"developer": "Capcom",
+					"publisher": "Capcom"
+				},
+				{
+					"region": "United States",
+					"roman": "Street Fighter Alpha: Warriors' Dreams",
+					"releaseDate": "06-27-1995",
+					"developer": "Capcom",
+					"publisher": "Capcom"
+				},
+				{
+					"region": "Europe",
+					"roman": "Street Fighter Zero",
+					"releaseDate": "07-27-1995",
+					"developer": "Capcom",
+					"publisher": "Capcom"
+				},
+				{
+					"region": "South America",
+					"roman": "Street Fighter Zero",
+					"releaseDate": "11-09-1995",
+					"developer": "Capcom",
+					"publisher": "Capcom"
+				}
+			]
+		},
+		{
+			"platform": "PlayStation",
+			"regions": [
+				{
+					"region": "Japan",
+					"roman": "Street Fighter Zero",
+					"original": "ストリートファイター ZERO",
+					"releaseDate": "12-22-1995",
+					"developer": "Capcom",
+					"publisher": "Capcom",
+					"coverFront": "ps1-jp-front.webp"
+				},
+				{
+					"region": "United States",
+					"roman": "Street Fighter Alpha: Warriors' Dreams",
+					"releaseDate": "02-07-1996",
+					"developer": "Capcom",
+					"publisher": "Capcom",
+					"coverFront": "ps1-us-front.webp"
+				},
+				{
+					"region": "Europe",
+					"roman": "Street Fighter Alpha: Warriors' Dreams",
+					"releaseDate": "05-03-1996",
+					"developer": "Capcom",
+					"publisher": "Virgin Interactive",
+					"coverFront": "ps1-eu-front.webp"
+				}
+			]
+		},
+		{
+			"platform": "Saturn",
+			"regions": [
+				{
+					"region": "Japan",
+					"roman": "Street Fighter Zero",
+					"original": "ストリートファイター ZERO",
+					"releaseDate": "01-26-1996",
+					"developer": "Capcom",
+					"publisher": "Capcom",
+					"coverFront": "saturn-jp-front.webp"
+				},
+				{
+					"region": "United States",
+					"roman": "Street Fighter Alpha: Warriors' Dreams",
+					"releaseDate": "06-06-1996",
+					"developer": "Capcom",
+					"publisher": "Capcom",
+					"coverFront": "saturn-us-front.webp"
+				},
+				{
+					"region": "Europe",
+					"roman": "Street Fighter Alpha: Warriors' Dreams",
+					"releaseDate": "01-25-1996",
+					"developer": "Capcom",
+					"publisher": "Virgin Interactive",
+					"coverFront": "saturn-eu-front.webp"
+				},
+				{
+					"region": "South America",
+					"roman": "Street Fighter Zero",
+					"releaseDate": "1996",
+					"developer": "Capcom",
+					"publisher": "Tectoy"
+				}
+			]
+		},
+		{
+			"platform": "PC",
+			"regions": [
+				{
+					"region": "United States",
+					"roman": "Street Fighter Alpha: Warriors' Dreams",
+					"releaseDate": "06-14-1998",
+					"developer": "Capcom",
+					"publisher": "Capcom",
+					"coverFront": "pc-us-front.webp"
+				},
+				{
+					"region": "Japan",
+					"roman": "Street Fighter Zero",
+					"original": "ストリートファイター ZERO",
+					"releaseDate": "03-12-1998",
+					"developer": "Capcom",
+					"publisher": "Capcom"
+				}
+			]
+		},
+		{
+			"platform": "Game Boy Color",
+			"regions": [
+				{
+					"region": "Japan",
+					"roman": "Street Fighter Zero",
+					"original": "ストリートファイター ZERO",
+					"releaseDate": "03-30-2001",
+					"developer": "Crawfish Interactive",
+					"publisher": "Capcom",
+					"coverFront": "gbc-jp-front.webp"
+				},
+				{
+					"region": "United States",
+					"roman": "Street Fighter Alpha: Warriors' Dreams",
+					"releaseDate": "03-24-2000",
+					"developer": "Crawfish Interactive",
+					"publisher": "Capcom",
+					"coverFront": "gbc-us-front.webp"
+				},
+				{
+					"region": "Europe",
+					"roman": "Street Fighter Alpha: Warriors' Dreams",
+					"releaseDate": "12-17-1999",
+					"developer": "Crawfish Interactive",
+					"publisher": "Virgin Interactive",
+					"coverFront": "gbc-eu-front.webp"
+				}
+			]
+		}
+	],
+	"characters": [
+		{ 
+			"regions": [
+				{
+					"region": "default",
+					"roman": "Ryu"
+				},
+				{
+					"region": "japan",
+					"roman": "Ryu",
+					"original": "リュウ"
+				}
+			]
+		},
+		{ 
+			"regions": [
+				{
+					"region": "default",
+					"roman": "Ken Masters"
+				},
+				{
+					"region": "japan",
+					"roman": "Ken Masters",
+					"original": "ケン・マスターズ"
+				}
+			]
+		},
+		{ 
+			"regions": [
+				{
+					"region": "default",
+					"roman": "Chun-Li"
+				},
+				{
+					"region": "japan",
+					"roman": "Chun-Li",
+					"original": "チュンリー"
+				}
+			]
+		},
+		{ 
+			"regions": [
+				{
+					"region": "default",
+					"roman": "M. Bison"
+				},
+				{
+					"region": "japan",
+					"roman": "Vega",
+					"original": "ベガ"
+				}
+			]
+		},        
+        { 
+            "regions": [
+                {
+                    "region": "default",
+                    "roman": "Sagat"
+                },
+                {
+                    "region": "japan",
+                    "roman": "Sagat",
+                    "original": "サガット"
+                }
+            ]
+        },
+		{ 
+            "regions": [
+                {
+                    "region": "default",
+                    "roman": "Akuma"
+                },
+                {
+                    "region": "japan",
+                    "roman": "Gouki",
+                    "original": "ゴウキ"
+                }
+            ]
+        },
+        { 
+			"regions": [
+				{
+					"region": "default",
+					"roman": "Charlie Nash"
+				},
+				{
+					"region": "japan",
+					"roman": "Charlie Nash",
+					"original": "チャーリー・ナッシュ"
+				}
+			]
+		},
+		{ 
+			"regions": [
+				{
+					"region": "default",
+					"roman": "Guy"
+				},
+				{
+					"region": "japan",
+					"roman": "Guy",
+					"original": "ガイ"
+				}
+			]
+		},
+		{ 
+			"regions": [
+				{
+					"region": "default",
+					"roman": "Birdie"
+				},
+				{
+					"region": "japan",
+					"roman": "Birdie",
+					"original": "バーディー"
+				}
+			]
+		},
+		{ 
+			"regions": [
+				{
+					"region": "default",
+					"roman": "Adon"
+				},
+				{
+					"region": "japan",
+					"roman": "Adon",
+					"original": "アドン"
+				}
+			]
+		},
+		{ 
+			"regions": [
+				{
+					"region": "default",
+					"roman": "Rose"
+				},
+				{
+					"region": "japan",
+					"roman": "Rose",
+					"original": "ローズ"
+				}
+			]
+		},
+		{ 
+			"regions": [
+				{
+					"region": "default",
+					"roman": "Dan Hibiki"
+				},
+				{
+					"region": "japan",
+					"roman": "Dan Hibiki",
+					"original": "火引 弾"
+				}
+			]
+		},
+		{ 
+			"regions": [
+				{
+					"region": "default",
+					"roman": "Sodom"
+				},
+				{
+					"region": "japan",
+					"roman": "Sodom",
+					"original": "ソドム"
+				}
+			]
+		}
+
+    ]
+}

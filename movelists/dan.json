@@ -1,0 +1,52 @@
+{
+	"names": [
+		{
+			"region": "default",
+			"roman": "Dan"
+		},
+		{
+			"region": "japan",
+			"roman": "Dan",
+			"original": "弾"
+		}
+	],
+	"images": {
+		"face": "dan.webp"
+	},
+	"moves": {
+		"{normal-throws}": [
+			{
+				"name": "Shoulder Throw",
+				"input": "{close}, :b: {or} :f:+[MP] {or} [HP]"
+			}
+		],
+		"{special-moves}": [
+			{
+				"name": "Gadoken",
+				"input": ":qcf:+[P]"
+			},
+			{
+				"name": "Koryuken",
+				"input": ":dp:+[P]"
+			},
+			{
+				"name": "Dankukyaku",
+				"input": ":qcb:+[K]"
+			}
+		],
+		"{super-combo}": [
+			{
+				"name": "Shinku Gadoken",
+				"input": ":qcf::qcf:+[P]"
+			},
+			{
+				"name": "Koryu Rekka",
+				"input": ":qcf::d::df:+[K]"
+			},
+			{
+				"name": "Hissho Buraiken",
+				"input": ":qcb::qcb:+[K]"
+			}
+		]
+	}
+}
