@@ -46,14 +46,31 @@
 		],
 		"{super-combo}": [
 			{
-				"name": "Jaguar Varied Assault",
-				"input": ":qcf::d::df:+[P]"
-				//add followups
-			},
-			{
 				"name": "Jaguar Revolver",
 				"input": ":qcb::qcb:+[K]"
-			}
+			},
+			{
+				"name": "Jaguar Varied Assault",
+				"input": ":qcf::d::df:+[P]"
+			},
+			{
+				"name": "Thousand Jaguars",
+				"input": "{tapPunch}",
+				"after": "{jvaLevel3}"
+			},
+			{
+				"name": "Jaguar Assassin",
+				"input": "{tapKick}",
+				"after": "{jvaLevel3}"
+			}			
+		]
+	},
+	"custom_strings": {
+		"english": [
+			{ "jvaLevel3": "Jaguar Varied Assault (Level 3)"}
+		],
+		"portuguese": [
+			{ "jvaLevel3": "Jaguar Varied Assault (Nível 3)"}
 		]
 	}
 }
