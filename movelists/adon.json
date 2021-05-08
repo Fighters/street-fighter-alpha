@@ -21,7 +21,7 @@
 				"name": "Jaguar Slam",
 				"input": "{close}, :b: {or} :f:+[MK] {or} [HK]"
 			}
-		],	
+		],
 		"{uniqueAttacks}": [
 			{
 				"name": "Jutting Kick",
@@ -62,16 +62,15 @@
 				"input": "{tapKick}",
 				"after": "Jaguar Varied Assault",
 				"extraInfo": "{jvaLevel3}"
-			}			
+			}
 		]
 	},
 	"custom_strings": {
 		"english": {
-			 "jvaLevel3": "only during the level 3 version of Jaguar Varied Assault"
+			"jvaLevel3": "only during the level 3 version of Jaguar Varied Assault"
 		},
-		"portuguese": { 
+		"portuguese": {
 			"jvaLevel3": "somente durante a versão nível 3 do Jaguar Varied Assault"
 		}
-		
 	}
 }
