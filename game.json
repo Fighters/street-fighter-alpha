@@ -171,5 +171,13 @@
 				}
 			]
 		}
+	],
+	"features": [
+		{
+			"name": "Chain Combos"
+		},
+		{
+			"name": "Super Combos"
+		}
 	]
 }
